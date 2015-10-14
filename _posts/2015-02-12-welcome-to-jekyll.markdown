@@ -1,25 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome"
 date:   2015-02-12 13:46:40
-categories: jekyll update
+categories: david marshall, introduction, about me.
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+If've you have arrived here, then welcome this blog is a personal exploration of things I find interesting.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Some of the topics I hope to cover include:
+-Personal Data
+-Quantified Self
+-Personal analytics
+-Social Media
+-Start Ups
 
-Jekyll also offers powerful support for code snippets:
+Note:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I intend to run this site for personal interest rather than monetary gain.  The content of this site is not curated on a commerical basis or at the request of advertisers etc. However, the links to external sites may contain referral links that allow offers, rewards, or other incentives. I will make it clear when content or offers are inlcuded at the request of a third party. In addition I will on a monthly basis provide an account of any rewards recieved.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
